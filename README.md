@@ -1,5 +1,3 @@
 # Lösungen für  Semesteraufgabe Teil 1a: Funktionen in einem Python Modul
 
-## Ausführung der Tests
-
-    python test.py
+Zum Betrachten das Verzeichnis mit Jupyter Notebooks aufrufen
